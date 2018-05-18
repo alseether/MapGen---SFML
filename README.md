@@ -4,5 +4,5 @@ The third version of my diamond-square MapGen, this time has been implemented wi
 
 Nothing awesome.
 
-![alt text](https://github.com/alseether/MapGen---SFML/master/screenshot.PNG "Procedural Generated Terrain")
+![screenshot](https://raw.githubusercontent.com/alseether/MapGen---SFML/master/screenshot.PNG "Procedural Generated Terrain")
 
