@@ -1,4 +1,5 @@
-# MapGen - SFML
+MapGen - SFML
+-------------
 
 The third version of MapGen, this time has been implemented with SFML library
 
