@@ -1,0 +1,75 @@
+﻿Compilación iniciada a las 18/05/2018 13:31:58.
+     1>Proyecto "D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\MapGen-SFML\MapGen-SFML.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\packages\sfml-graphics.2.4.2.0\build\native\../..//build/native/include/" /I"D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\packages\sfml-window.2.4.2.0\build\native\../..//build/native/include/" /I"D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\packages\sfml-system.2.4.2.0\build\native\../..//build/native/include/" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D HAS_SFML /D HAS_SFML /D HAS_SFML /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(108): warning C4244: '=' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(111): warning C4244: '=' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(127): warning C4244: '=' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(130): warning C4244: '=' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(225): warning C4018: '<' : no coinciden signed/unsigned
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(226): warning C4018: '<' : no coinciden signed/unsigned
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(227): warning C4244: 'inicializando' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(228): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(235): warning C4018: '<' : no coinciden signed/unsigned
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(236): warning C4018: '<' : no coinciden signed/unsigned
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(237): warning C4244: 'inicializando' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(238): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(373): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(376): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(387): warning C4244: 'argumento' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(398): warning C4018: '<' : no coinciden signed/unsigned
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(399): warning C4018: '<' : no coinciden signed/unsigned
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(400): warning C4244: 'inicializando' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(406): warning C4244: 'inicializando' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(410): warning C4244: '+=' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(416): warning C4244: '+=' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(419): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(458): warning C4244: 'inicializando' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(466): warning C4244: '=' : conversión de 'time_t' a 'int'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(476): warning C4244: 'inicializando' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(497): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(498): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(499): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(500): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(535): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(617): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(632): warning C4244: 'inicializando' : conversión de 'double' a 'int'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\map.hpp(642): warning C4244: 'argumento' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(32): warning C4244: 'inicializando' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(47): warning C4244: 'inicializando' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(48): warning C4244: 'return' : conversión de 'float' a 'int'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(200): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(201): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(238): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(239): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(241): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(242): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(277): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(278): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(314): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(315): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(317): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(318): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(354): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(355): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(390): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(391): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(393): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(394): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(429): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(430): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(447): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\conversor.hpp(450): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\source.cpp(16): warning C4244: 'argumento' : conversión de 'unsigned int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\source.cpp(17): warning C4244: 'argumento' : conversión de 'unsigned int' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\source.cpp(74): warning C4244: '=' : conversión de 'double' a 'float'; posible pérdida de datos
+     1>d:\users\alazaro\documents\github\mapgen---sfml\mapgen-sfml\mapgen-sfml\source.cpp(102): warning C4244: '=' : conversión de 'int' a 'float'; posible pérdida de datos
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\Debug\MapGen-SFML.exe" /INCREMENTAL /NOLOGO "D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\packages\sfml-graphics.2.4.2.0\build\native\../..//build/native/lib/Win32\v120\Debug\dynamic\sfml-graphics-d.lib" "D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\packages\sfml-window.2.4.2.0\build\native\../..//build/native/lib/Win32\v120\Debug\dynamic\sfml-window-d.lib" "D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\packages\sfml-system.2.4.2.0\build\native\../..//build/native/lib/Win32\vorbisfile.lib" "D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\packages\sfml-system.2.4.2.0\build\native\../..//build/native/lib/Win32\vorbisenc.lib" "D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\packages\sfml-system.2.4.2.0\build\native\../..//build/native/lib/Win32\vorbis.lib" "D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\packages\sfml-system.2.4.2.0\build\native\../..//build/native/lib/Win32\openal32.lib" "D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\packages\sfml-system.2.4.2.0\build\native\../..//build/native/lib/Win32\ogg.lib" "D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\packages\sfml-system.2.4.2.0\build\native\../..//build/native/lib/Win32\jpeg.lib" "D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\packages\sfml-system.2.4.2.0\build\native\../..//build/native/lib/Win32\freetype.lib" "D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\packages\sfml-system.2.4.2.0\build\native\../..//build/native/lib/Win32\flac.lib" "D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\packages\sfml-system.2.4.2.0\build\native\../..//build/native/lib/Win32\v120\Debug\dynamic\sfml-system-d.lib" "D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\packages\sfml-system.2.4.2.0\build\native\../..//build/native/lib/Win32\v120\Debug\sfml-main-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\Debug\MapGen-SFML.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\Debug\MapGen-SFML.lib" /MACHINE:X86 Debug\Source.obj
+         MapGen-SFML.vcxproj -> D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\Debug\MapGen-SFML.exe
+     1>Compilación del proyecto terminada "D:\Users\alazaro\Documents\GitHub\MapGen---SFML\MapGen-SFML\MapGen-SFML\MapGen-SFML.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.86
